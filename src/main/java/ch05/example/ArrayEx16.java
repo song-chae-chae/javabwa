@@ -1,4 +1,4 @@
-package ch05;
+package ch05.example;
 
 class ArrayEx16 {
     public static void main(String[] args) {

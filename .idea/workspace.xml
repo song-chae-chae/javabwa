@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add Chapter5 practice">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/ArrayEx16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/ArrayEx17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/ArrayEx18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/ArrayEx19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/MultiArrEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/MultiArrEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/MultiArrEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch05/MultiArrEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add Chapter5 practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666519597415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Chapter5 practice">
+      <created>1666595821199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666595821199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

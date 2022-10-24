@@ -1,4 +1,4 @@
-package ch05;
+package ch05.example;
 
 public class MultiArrEx3 {
     public static void main(String[] args) {
