@@ -4,75 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch06 examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding2/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding2/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding2/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding3/BindingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding3/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/binding3/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/CastingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/CastingTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/FireEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/instanceofTest/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/instanceofTest/FireEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/casting/instanceofTest/InstanceofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/deck/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/deck/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/deck/DeckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/drawshape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/drawshape/DrawShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/drawshape/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/drawshape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/drawshape/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/finalCard/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/finalCard/FinalCardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/importTest/ImportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/importTest/StaticImportEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/packagTest/PackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point2/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point2/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/point2/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument/PolyArgumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/PolyArgumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument2/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/PolyArgumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/polyArgument3/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/singleton/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super1/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super2/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super2/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/super2/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/time/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/time/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv/CaptionTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv/CaptionTvTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv2/TVCR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv2/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/tv2/VCR.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch07 examples">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/DefaultMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/MyInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Attackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Fightable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/FighterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/InterfaceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/InstanceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/InterfaceTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/HTMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/Parseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/ParserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/AirUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Dropship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/GroundUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Marine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Repairable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/RepairableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/SCV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Unit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,13 +80,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/study/javabwa/src/main/java/ch07/example/polyArgument3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/javabwa/src/main/java/ch07/example/polyArgument3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\javabwa\src\main\java\ch07\example\polyArgument3" />
@@ -168,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666679540148</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add ch07 examples">
+      <created>1666780030624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666780030624</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +174,7 @@
     <MESSAGE value="add Chapter5 practice" />
     <MESSAGE value="move ch05 practice files to example package" />
     <MESSAGE value="add ch06 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch06 examples" />
+    <MESSAGE value="add ch07 examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch07 examples" />
   </component>
 </project>
