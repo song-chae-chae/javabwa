@@ -5,52 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch07 examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/DefaultMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/MyInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/defaultMethod/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Attackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Fightable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/FighterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/fighter/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/innerEx/InnerEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest2/InterfaceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/InstanceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/interfaceTest3/InterfaceTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/HTMLParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/Parseable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/ParserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/ParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/parser/XMLParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/AirUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Dropship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/GroundUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Marine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Repairable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/RepairableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/SCV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch07/example/repairable/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ChainedExceptionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/NewExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/TryWithResourceEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666780030624</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add ch07 examples">
+      <created>1666787828326</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666787828326</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
