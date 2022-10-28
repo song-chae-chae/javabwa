@@ -4,30 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch07 examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ChainedExceptionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/ExceptionEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/FinallyTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/NewExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch08/example/TryWithResourceEx.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch08 examples">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/BigDecimalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/BigIntegerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/CardToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/CardToString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ClassEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/CloneEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/CloneEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/EqualsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/EqualsEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/HashCodeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/MathEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/MathEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/MathEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RandomEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RandomEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RandomEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RandomEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RegularEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RegularEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RegularEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/RegularEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ShallowDeepCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringBufferEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringBufferEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringTokenizerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringTokenizerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringTokenizerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringTokenizerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/StringTokenizerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/ToStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/WrapperEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/WrapperEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/example/WrapperEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +93,85 @@
       <recent name="D:\study\javabwa\src\main\java\ch07\example\binding2" />
       <recent name="D:\study\javabwa\src\main\java\ch07\example\point2" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch09.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09.example.ClassEx1" />
+      <module name="javabwa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09.example.CloneEx1" />
+      <module name="javabwa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09.example.CloneEx2" />
+      <module name="javabwa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShallowDeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09.example.ShallowDeepCopy" />
+      <module name="javabwa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch09.example.StringEx1" />
+      <module name="javabwa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch09.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringEx1" />
+        <item itemvalue="Application.ClassEx1" />
+        <item itemvalue="Application.ShallowDeepCopy" />
+        <item itemvalue="Application.CloneEx2" />
+        <item itemvalue="Application.CloneEx1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -138,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666787828326</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add ch08 examples">
+      <created>1666864631055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666864631055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +266,7 @@
     <MESSAGE value="move ch05 practice files to example package" />
     <MESSAGE value="add ch06 examples" />
     <MESSAGE value="add ch07 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch07 examples" />
+    <MESSAGE value="add ch08 examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch08 examples" />
   </component>
 </project>
