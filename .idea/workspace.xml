@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch09 examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/CalendarEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DecimalFormatEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DecimalFormatEx2.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch10 examples">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/ChoiceFormatEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/ChoiceFormatEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatterEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/DateFormatterEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/MessageFormatEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/MessageFormatEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/MessageFormatEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/MessageFormatEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/NewTimeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/NewTimeEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/NewTimeEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/example/NewTimeEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666946498225</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ch10 examples">
+      <created>1666952341464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666952341465</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +250,7 @@
     <MESSAGE value="add ch07 examples" />
     <MESSAGE value="add ch08 examples" />
     <MESSAGE value="add ch09 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch09 examples" />
+    <MESSAGE value="add ch10 examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch10 examples" />
   </component>
 </project>
