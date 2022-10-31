@@ -4,9 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch10 examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ArrayListEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ArrayListEx2.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch11 examples">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ArrayListLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ArrayListLinkedListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ArraysEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/AsciiPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/Bingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/CollectionsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ExpValidCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HaseSetLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashMapEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashMapEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashMapEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashSetEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashSetEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/HashSetEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/IteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/IteratorEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/ListIteratorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/MyVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/MyVector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/MyVector2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/PriorityQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/PropertiesEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/PropertiesEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/PropertiesEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/PropertiesEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/QueueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/StackEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/StackQueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/TreeMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/TreeSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/TreeSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/TreeSetLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/example/VectorEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +90,7 @@
       <recent name="ch09.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassEx1">
+  <component name="RunManager">
     <configuration name="ClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch09.example.ClassEx1" />
       <module name="javabwa" />
@@ -224,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666960226302</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add ch11 examples">
+      <created>1667135215178</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667135215178</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +290,7 @@
     <MESSAGE value="add ch08 examples" />
     <MESSAGE value="add ch09 examples" />
     <MESSAGE value="add ch10 examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch10 examples" />
+    <MESSAGE value="add ch11 examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch11 examples" />
   </component>
 </project>
