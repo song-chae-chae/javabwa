@@ -4,47 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch14 example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/AnnotationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/AnnotationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/AnnotationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/AnnotationEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/AnnotationEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/EnumEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/EnumEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/EnumEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/EnumEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/FruitBoxEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/FruitBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/FruitBoxEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox2/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/FruitBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/FruitBoxEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Juice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox3/Juicer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/AppleComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/FruitBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/FruitBoxEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/FruitComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/example/fruitBox4/GrapeComp.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch12 example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/BufferedOutputStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/BufferedReaderEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileReaderEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/InputStreamReaderEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/PipedReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/PrintStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SequenceInputStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SerialEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SerialEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StringReaderWriterEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/UserInfo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +54,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +84,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/study/javabwa/src/main/java/ch12/example/fruitBox3"
+    "last_opened_file_path": "D:/study/javabwa/src/main/java/ch12/example/fruitBox3",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -283,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667286328161</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add ch12 example">
+      <created>1667294720157</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667294720157</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,6 +323,11 @@
     <MESSAGE value="add ch10 examples" />
     <MESSAGE value="add ch11 examples" />
     <MESSAGE value="add ch14 example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch14 example" />
+    <MESSAGE value="add ch12 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch12 example" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
