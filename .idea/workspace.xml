@@ -4,49 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch12 example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/BufferedOutputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/BufferedReaderEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataInputStreamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/DataOutputStreamEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileReaderEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/FileViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/IOEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/InputStreamReaderEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/PipedReaderWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/PrintStreamEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/RandomAccessFileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SequenceInputStreamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SerialEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/SerialEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StandardIOEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/StringReaderWriterEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/example/UserInfo2.java" afterDir="false" />
+    <list default="true" id="022e2277-2e8d-4c1a-a88c-5e8010fe60c0" name="Changes" comment="add ch15 example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/example/NetworkEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/example/NetworkEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/example/NetworkEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/example/NetworkEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/study/javabwa/src/main/java/ch12/example/fruitBox3",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/javabwa/src/main/java/ch12/example/fruitBox3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\javabwa\src\main\java\ch12\example\fruitBox3" />
@@ -297,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667294720157</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add ch15 example">
+      <created>1667375469133</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667375469133</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,7 +293,8 @@
     <MESSAGE value="add ch11 examples" />
     <MESSAGE value="add ch14 example" />
     <MESSAGE value="add ch12 example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ch12 example" />
+    <MESSAGE value="add ch15 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ch15 example" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
